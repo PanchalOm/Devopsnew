@@ -18,6 +18,9 @@
         <github.account>SeshagiriSriram</github.account>
         <thucydides.version>0.9.268</thucydides.version>
         <jelastic.context>addressbook</jelastic.context>
+
+        <sonar.login>admin</sonar.login>
+        <sonar.password>op14092003</sonar.password>   
     </properties>
 
     <scm>
